@@ -1,3 +1,28 @@
-*{
-    color: red;
+#home {
+    text-align: center;
+    padding: 200px;
 }
+
+h1 {
+    font-size: 50px;
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+}
+
+#pancakes {
+    background-color: orange;
+}
+
+#eggs {
+    background-color: bisque;
+}
+
+#sausages {
+    background-color:lightgrey;
+}
+
+body {
+    background-color: lightblue;
+}
+
